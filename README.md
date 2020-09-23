@@ -20,8 +20,8 @@ Recommenders.py will need to be downloaded and saved to ...\anaconda3\Lib\site-p
 Publicly available from [Million Song Dataset](http://millionsongdataset.com/).  In an effort to speed up the processing, the dataset was parsed down to 10,000 songs.
 
 ## Acknowledgements
-[dvysardana](https://github.com/dvysardana) for creating Recommender.py
-[Siraj Raval](https://github.com/llSourcell) for being the link I followed to find Recommenders.py
+- [dvysardana](https://github.com/dvysardana) for creating Recommender.py
+- [Siraj Raval](https://github.com/llSourcell) for being the link I followed to find Recommenders.py
 
 ## How to run
 Start jupyter using jupyter notebook.
